@@ -1,0 +1,32 @@
+export const facts = [
+    'JavaScript was created in 1995',
+    'Brendan Eich developed JavaScript in 10 days',
+    'It was first called Mocha, then LiveScript, before becoming JavaScript',
+    'JavaScript is not related to Java',
+    'JavaScript is one of the three core web technologies: HTML, CSS, JavaScript',
+    'It runs in the browser by default',
+    'JavaScript can also run on the server (Node.js)',
+    'It is a dynamically typed language',
+    'JavaScript supports functional and object-oriented programming',
+    'JavaScript is a high-level, interpreted language',
+    'JavaScript is single-threaded',
+    'It is prototype-based',
+    'It uses garbage collection',
+    'JavaScript supports closures',
+    'The this keyword behaves differently depending on context',
+    'JavaScript supports event-driven programming',
+    'JavaScript is a weakly typed language',
+    'The language has both primitive and reference types',
+    'You can create anonymous functions',
+    'JavaScript has first-class functions',
+    'Arrow functions were introduced in ES6',
+    'JavaScript is a popular language for building interactive web applications',
+    'JavaScript is a popular language for building mobile applications',
+    'JavaScript is a popular language for building server applications',
+    'JavaScript is a popular language for building desktop applications',
+    'JavaScript is a popular language for building game applications',
+    
+]
+
+
+
