@@ -25,7 +25,7 @@ export const facts = [
     'JavaScript is a popular language for building server applications',
     'JavaScript is a popular language for building desktop applications',
     'JavaScript is a popular language for building game applications',
-    
+    'JavaScript is a popular language for building AI applications',
 ]
 
 
